@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Brief CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,49 +11,27 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* MPhil in Advanced Computer Science, Unviersity of Cambridge, 2020-now.
+* BA & Master in Engineering, Unviersity of Cambridge, 2016-2020. 
+  * First class honour in all years.
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2019: Research Assistant @[Language Technology Lab, Cambridge](http://ltl.mml.cam.ac.uk/)
+  * Supervised by Prof. Anna Korhonen and Dr. Haim Dubossarsky.
+  * Worked on cross-lingual word embeddings.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2017: Data Science Intern @[Metail](https://metail.com/)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python, Matlab, C++, SQL
+* Git, Latex, Linux
 
-Publications
+Languages
+=====
+Mandarin(Native), English(Fluent), Japanese(basic)
+
+Society
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Emmanuel College Women Football (Co-captain 2018-2019)
