@@ -15,8 +15,8 @@ Education
 * BA & Master in Engineering, Unviersity of Cambridge, 2016-2020. 
   * First class honour in all years.
   * Final year project: Neural Network Based Diarisation, supervised by Prof. Phil Woodland.
-    * Resulted in paper @[*Context-aware Speaker Embeddings for Speaker Diarisation*](https://github.com/olidyliu/olidyliu.github.io/files/ContextAwareDiarisation.pdf) in submission to ICASSP 2021.
-    * Check out my thesis @[here](https://github.com/olidyliu/olidyliu.github.io/files/thesis.pdf)
+    * Resulted in paper [*Context-aware Speaker Embeddings for Speaker Diarisation*](https://github.com/olidyliu/olidyliu.github.io/files/ContextAwareDiarisation.pdf) in submission to ICASSP 2021.
+    * Check out my thesis [here](https://github.com/olidyliu/olidyliu.github.io/files/thesis.pdf)
 
 Work experience
 ======
