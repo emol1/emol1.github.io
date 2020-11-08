@@ -17,9 +17,11 @@ In progress:
 * Linguistics, an Introduction to Language and Communication by Adrian Akmajian, Ann K. Farmer, Lee Bickmore, Richard A. Demers, Robert M. Harnish
 * An Intoduction to Language by Nina Hyams, Victoria Fromkin, Robert Rodman
 * The Infinite Gift: How Children Learn and Unlearn the Languages of the World by Charles Yang
+* Productivity and Reuse in Language: A Theory of Linguistic Computation and Storage by Timothy J. O'Donnell
+* Metaphors We Live By by George Lakoff and Mark Johnson
 
 To read:
 * Language Instinct by Steven Pinker
 * Explain Me This by Adele Goldberg
 
-Any recommendations welcomed! <dyliu567@gmail.com>
+Any recommendations very much welcomed! <dyliu567@gmail.com>
