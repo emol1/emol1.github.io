@@ -20,7 +20,7 @@ Education
     * Resulted in paper [*Context-aware Speaker Embeddings for Speaker Diarisation*](https://olidyliu.github.io/files/ContextAwareDiarisation.pdf) in submission to ICASSP 2021.
     * Check out my thesis [here](https://olidyliu.github.io/files/thesis.pdf)
 
-Work experience
+Work experiences
 ======
 * Summer 2019: Research Assistant @[Language Technology Lab, Cambridge](http://ltl.mml.cam.ac.uk/)
   * Supervised by [Prof. Anna Korhonen](https://sites.google.com/site/annakorhonen/) and Dr. Haim Dubossarsky.
@@ -32,7 +32,7 @@ Work experience
 Skills
 ======
 * Python, Matlab, C++, SQL
-* Git, Latex, Linux
+* Git, Latex, Linux, pytorch, pymc3
 
 Languages
 =====
