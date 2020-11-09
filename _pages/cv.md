@@ -39,4 +39,4 @@ Mandarin(Native), English(Fluent), Japanese(basic)
 
 Society
 ======
-Emmanuel College Women Football (Co-captain 2018-2019)
+Emmanuel College Women Football (Co-captain 2018-2019, treasurer 2019-2020)
