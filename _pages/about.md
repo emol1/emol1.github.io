@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi there! I am Oli, an [MPhil](https://www.cst.cam.ac.uk/admissions/acs) student studying computer science at the University of Cambridge. An information engineer by training, I am deeply fascinated by computational linguistics & cognitive science as well as the more applied field of natural language processing. Topics that particularly interest me include (but are not limited to):
+Hi there! I am Oli, an [MPhil](https://www.cst.cam.ac.uk/admissions/acs) student studying computer science at the University of Cambridge. An information engineer by training, I am deeply fascinated by computational linguistics & cognitive science as well as the more applied field of natural language processing. Topics that particularly interest me include:
 * Computational modeling for language acquisition 
 * Lexical semantics in distributed representations
 * Bayesian methods for NLP
