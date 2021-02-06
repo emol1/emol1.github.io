@@ -12,5 +12,5 @@ Hi there! I am Oli, an [MPhil](https://www.cst.cam.ac.uk/admissions/acs) student
 * Lexical semantics in distributed representations
 * Bayesian methods for NLP
 
-I am also trying my best (to take time from my intense masters' courses) to learn about formal semantics and the philosophy of language. Any beginner-level materials suitable for people coming from a technical background would be much appreciated!<br>
+I am also trying my best (to take time from my intense masters' courses) to learn about formal semantics, philosophy of language, as well as the formalist vs. functionalist debate. Any beginner-level materials suitable for people coming from a technical background would be much appreciated!<br>
 Apart from maths and linguistics, music is my absolute favorite. Singing to my guitar (at the middle of the night in particular) kept me sane when I was working on my final year thesis while anxiously waiting for masters' application decisions during lockdown, being one of the only two people left in the entire house. Running and reading and [reading about running](https://en.wikipedia.org/wiki/What_I_Talk_About_When_I_Talk_About_Running) also helped!
