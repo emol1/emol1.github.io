@@ -15,7 +15,7 @@ Education
   * Relevant modules: 
     * [Overview of Natural Language Processing](https://www.cl.cam.ac.uk/teaching/2021/L90/)
     * [Introduction to Natural Language Syntax and Parsing](https://www.cl.cam.ac.uk/teaching/2021/L95) ([coursework on parser evaluation](https://github.com/uililo/parser-evaluation))
-    * [Machine Learning For Language Processing](https://www.cl.cam.ac.uk/teaching/2021/L101) ([coursework on language identification](https://github.com/uililo/code-switching-langid))
+    * [Machine Learning For Language Processing](https://www.cl.cam.ac.uk/teaching/2021/L101) 
     * Advanced Topics in NLP and ML (my choice of topics are: Do LSTM learn syntax, imitation learning, causal inference)
     * Computer Vision
   * MPhil project: Metaphor Processing, supervised by [Prof. Simone Teufel](https://www.cl.cam.ac.uk/~sht25/).
